@@ -18,7 +18,7 @@ Proyecto de la asignatura **Informática para el Trabajo Social**, Universidad d
 
 [Visita la web](https://[macarenamm13].github.io/`[Proyecto-Trabajo-Social])
 
-![[Una mirada desde el Trabajo Social al tránsito entre la exclusión del estigma y la inclusión comunitaria]](<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/8372162e-c511-453e-a12b-bc00fb566ce3" />)
+![[Una mirada desde el Trabajo Social al tránsito entre la exclusión del estigma y la inclusión comunitaria]](<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/43eeaee3-ffe6-4d2b-84d6-df8778c7fa30" />)
 
 
 ## Contenido del repositorio
