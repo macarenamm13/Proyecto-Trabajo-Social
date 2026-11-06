@@ -1,4 +1,4 @@
-#Estigma y exclusión social de las personas con esquizofrenia: una aproximación desde el Trabajo Social 
+# Estigma y exclusión social de las personas con esquizofrenia: una aproximación desde el Trabajo Social 
 
 Proyecto de la asignatura **Informática para el Trabajo Social**, Universidad de Cádiz.
 
